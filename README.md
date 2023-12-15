@@ -1,5 +1,5 @@
 -- MADE BY ABC-Scripts --
-Hi, thank you for downloading blipcreator from ABC-Scripts! :)
+
 
 If you need any type of help contact us on discord
 Discord server: https://discord.gg/gJNr8TJ3xQ
